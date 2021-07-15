@@ -850,5 +850,41 @@ body {
   visibility: hidden;
   pointer-events: none;
 }
+.modal-form{
+
+}
+
+.modal-form-field{
+
+}
+
+.modal-form-input{
+
+}
+
+.modal-form-checkbox{
+
+}
+.modal-form-checkbox-label {
+
+}
+
+.modal-form-checkbox-link{
+
+}
+
+.modal-form-button {
+  
+}
+
+.modal-title {
+font-weight: 700;
+font-size: 20px;
+line-height: 1.15;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
 
 /*=======END BACKDROP=======*/
